@@ -12,5 +12,5 @@
 
   ### Credits to our coder(s)
 
-  #### Jazakallah/Thanks to <a href="https://github.com/@shahadah-studs">Shahadah Studios Elite</a> for building our organization here and coding most of out Infrastructure
-  #### Jazakallah/ Thanks to <a href="https://github.com/@ahmedshovon">@AhmedShovon</a> for supporting our organization here and developing ideas
+  #### Jazakallah/Thanks to <a href="https://github.com/Shahadah-studs">Shahadah Studios Elite</a> for building our organization here and coding most of out Infrastructure
+  #### Jazakallah/ Thanks to <a href="https://github.com/ahmedshovon">@AhmedShovon</a> for supporting our organization here and developing ideas
